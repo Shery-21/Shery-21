@@ -1,6 +1,7 @@
-[logo](403131212 (1).jpg)
+
 <h1 align="center">Hi 👋, I'm Shehar Bano</h1>
 <h3 align="center">A passionate Engineering student from pakistan</h3>
+<img align ="right" alt= "coding" width="400" src="![image](https://github.com/Shery-21/Shery-21/assets/144456939/80c0ab75-4293-4df9-b0a6-45b3fc62ed24)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shery-21&label=Profile%20views&color=0e75b6&style=flat" alt="shery-21" /> </p>
 
